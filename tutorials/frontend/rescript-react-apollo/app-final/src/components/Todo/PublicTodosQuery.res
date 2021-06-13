@@ -1,7 +1,7 @@
 let make = %graphql(`
   query {
     todos(
-      where: { is_public: { _eq: true } }
+      where: { is_public: { _eq: true }}
       limit: 7
       order_by: [{ created_at: desc }]
     ) {
