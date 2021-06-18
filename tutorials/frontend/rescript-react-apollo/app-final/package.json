@@ -10,6 +10,7 @@
     "@auth0/auth0-spa-js": "1.2.3",
     "@reasonml-community/graphql-ppx": "^1.2.0",
     "@rescript/react": "^0.10.3",
+    "@ryyppy/rescript-promise": "0.0.2",
     "bootstrap": "4.3.1",
     "graphql": "15.1.0",
     "moment": "2.24.0",
@@ -19,6 +20,7 @@
     "react-dom": "16.10.2",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
+    "reason-promise": "^1.1.4",
     "rescript-apollo-client": "^2.0.1",
     "subscriptions-transport-ws": "0.9.17"
   },
